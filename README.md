@@ -11,6 +11,7 @@
 - [x] Instant transactions
 - [x] No contract required
 - [x] Anti Metamask Phishing Detections
+- [x] Anti F12 Inspect
 
 
 # 🖍️ Setup Guide: 
